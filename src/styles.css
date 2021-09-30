@@ -21,6 +21,9 @@ h1 {
   margin: 0px;
   background: var(--primary-color);
 }
+.below-heading {
+  font-weight: bold;
+}
 
 .center {
   display: block;
@@ -51,4 +54,8 @@ button {
   margin: 1rem;
   border-radius: 1rem;
   display: block;
+  font-weight: bold;
+}
+.description {
+  font-weight: normal;
 }
